@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<text x="500.00" y="50.00" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#222222" style="">Figure 8 · Different Backbone</text>
+<rect x="90.00" y="105.00" width="800.00" height="410.00" rx="12" fill="white" opacity="1" stroke="#DDD7CB" stroke-width="1.2"/>
+<line x1="90.00" y1="476.32" x2="890.00" y2="476.32" stroke="#E6E2DA" stroke-width="1" opacity="1"/>
+<text x="78.00" y="481.32" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="end" fill="#666666" style="">2</text>
+<line x1="90.00" y1="398.96" x2="890.00" y2="398.96" stroke="#E6E2DA" stroke-width="1" opacity="1"/>
+<text x="78.00" y="403.96" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="end" fill="#666666" style="">3</text>
+<line x1="90.00" y1="321.60" x2="890.00" y2="321.60" stroke="#E6E2DA" stroke-width="1" opacity="1"/>
+<text x="78.00" y="326.60" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="end" fill="#666666" style="">4</text>
+<line x1="90.00" y1="244.25" x2="890.00" y2="244.25" stroke="#E6E2DA" stroke-width="1" opacity="1"/>
+<text x="78.00" y="249.25" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="end" fill="#666666" style="">5</text>
+<line x1="90.00" y1="166.89" x2="890.00" y2="166.89" stroke="#E6E2DA" stroke-width="1" opacity="1"/>
+<text x="78.00" y="171.89" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="end" fill="#666666" style="">6</text>
+<line x1="90.00" y1="105.00" x2="90.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="90.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">0</text>
+<line x1="170.00" y1="105.00" x2="170.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="170.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">2</text>
+<line x1="250.00" y1="105.00" x2="250.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="250.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">4</text>
+<line x1="330.00" y1="105.00" x2="330.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="330.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">6</text>
+<line x1="410.00" y1="105.00" x2="410.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="410.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">8</text>
+<line x1="490.00" y1="105.00" x2="490.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="490.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">10</text>
+<line x1="570.00" y1="105.00" x2="570.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="570.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">12</text>
+<line x1="650.00" y1="105.00" x2="650.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="650.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">14</text>
+<line x1="730.00" y1="105.00" x2="730.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="730.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">16</text>
+<line x1="810.00" y1="105.00" x2="810.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="810.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">18</text>
+<line x1="890.00" y1="105.00" x2="890.00" y2="515.00" stroke="#E6E2DA" stroke-width="1" opacity="0.65"/>
+<text x="890.00" y="539.00" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="400" text-anchor="middle" fill="#666666" style="">20</text>
+<line x1="90.00" y1="515.00" x2="890.00" y2="515.00" stroke="#222222" stroke-width="1.5" opacity="1"/>
+<line x1="90.00" y1="105.00" x2="90.00" y2="515.00" stroke="#222222" stroke-width="1.5" opacity="1"/>
+<text x="490.00" y="565.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#222222" style="">Days</text>
+<text x="35.00" y="310.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#222222" transform="rotate(-90 35 310.0)" style="">Average Deviation</text>
+<text x="490.00" y="87.00" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#222222" style="">GPT-4o-mini and GPT-4 preserve the accumulation effect</text>
+<path d="M 90.00,451.57 L 130.00,515.77 L 170.00,364.15 L 210.00,353.32 L 250.00,340.17 L 290.00,209.43 L 330.00,270.55 L 370.00,228.00 L 410.00,203.25 L 450.00,256.62 L 490.00,237.28 L 530.00,211.75 L 570.00,164.57 L 610.00,149.09 L 650.00,152.96 L 690.00,190.87 L 730.00,121.25 L 770.00,205.57 L 810.00,252.75 L 850.00,273.64 L 890.00,296.85" fill="none" opacity="1" stroke="#D88F8A" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.00" cy="451.57" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="130.00" cy="515.77" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="170.00" cy="364.15" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="210.00" cy="353.32" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="250.00" cy="340.17" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="290.00" cy="209.43" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="330.00" cy="270.55" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="370.00" cy="228.00" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="410.00" cy="203.25" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="450.00" cy="256.62" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="490.00" cy="237.28" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="530.00" cy="211.75" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="570.00" cy="164.57" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="610.00" cy="149.09" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="650.00" cy="152.96" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="690.00" cy="190.87" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="730.00" cy="121.25" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="770.00" cy="205.57" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="810.00" cy="252.75" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="850.00" cy="273.64" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<circle cx="890.00" cy="296.85" r="4.20" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<path d="M 90.00,405.15 L 130.00,490.25 L 170.00,300.72 L 210.00,305.36 L 250.00,313.87 L 290.00,265.91 L 330.00,250.43 L 370.00,235.74 L 410.00,285.25 L 450.00,309.23 L 490.00,246.57 L 530.00,211.75 L 570.00,195.51 L 610.00,199.38 L 650.00,237.28 L 690.00,167.66 L 730.00,251.21 L 770.00,222.58 L 810.00,190.87 L 850.00,187.77 L 890.00,231.09" fill="none" opacity="1" stroke="#2F5D8C" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 90.0,400.2 L 85.0,410.2 L 95.0,410.2 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 130.0,485.2 L 125.0,495.2 L 135.0,495.2 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 170.0,295.7 L 165.0,305.7 L 175.0,305.7 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 210.0,300.4 L 205.0,310.4 L 215.0,310.4 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 250.0,308.9 L 245.0,318.9 L 255.0,318.9 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 290.0,260.9 L 285.0,270.9 L 295.0,270.9 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 330.0,245.4 L 325.0,255.4 L 335.0,255.4 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 370.0,230.7 L 365.0,240.7 L 375.0,240.7 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 410.0,280.2 L 405.0,290.2 L 415.0,290.2 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 450.0,304.2 L 445.0,314.2 L 455.0,314.2 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 490.0,241.6 L 485.0,251.6 L 495.0,251.6 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 530.0,206.8 L 525.0,216.8 L 535.0,216.8 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 570.0,190.5 L 565.0,200.5 L 575.0,200.5 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 610.0,194.4 L 605.0,204.4 L 615.0,204.4 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 650.0,232.3 L 645.0,242.3 L 655.0,242.3 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 690.0,162.7 L 685.0,172.7 L 695.0,172.7 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 730.0,246.2 L 725.0,256.2 L 735.0,256.2 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 770.0,217.6 L 765.0,227.6 L 775.0,227.6 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 810.0,185.9 L 805.0,195.9 L 815.0,195.9 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 850.0,182.8 L 845.0,192.8 L 855.0,192.8 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M 890.0,226.1 L 885.0,236.1 L 895.0,236.1 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="620.00" y="420.00" width="220.00" height="70.00" rx="10" fill="white" opacity="1" stroke="#DDD7CB" stroke-width="1"/>
+<line x1="645.00" y1="445.00" x2="685.00" y2="445.00" stroke="#D88F8A" stroke-width="4" opacity="1"/>
+<circle cx="665.00" cy="445.00" r="5.00" fill="#D88F8A" stroke="white" stroke-width="1" opacity="1"/>
+<text x="700.00" y="451.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222222" style="">GPT-4o-mini</text>
+<line x1="645.00" y1="480.00" x2="685.00" y2="480.00" stroke="#2F5D8C" stroke-width="4" opacity="1"/>
+<path d="M 665,474 L 658,487 L 672,487 Z" fill="#2F5D8C" opacity="1" stroke="white" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="700.00" y="486.00" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" text-anchor="start" fill="#222222" style="">GPT-4</text>
+</svg>
