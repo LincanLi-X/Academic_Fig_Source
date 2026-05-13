@@ -13,3 +13,5 @@
 **/*.npz
 **/*.csv
 **/*.html
+# Locally packaged figure artifacts
+figure_news_evolution_artifacts.zip
