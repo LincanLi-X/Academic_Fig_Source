@@ -1,4 +1,6 @@
-# Recreated experimental figures for `2025.emnlp-Multi-Agent-news-evolution.pdf`
+# Recreated experimental figures for EMNLP2025 Multi-Agent News Evolution
+
+> The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents
 
 This folder contains one Python script per experimental-result figure from the paper body/appendix figures used in the experimental analysis.
 The scripts use a small pure-Python SVG helper so they can run without third-party dependencies.
